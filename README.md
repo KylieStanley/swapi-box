@@ -27,3 +27,7 @@ SwapiBox is an interactive web application that utilizes the Star Wars API. As a
 ![image](https://user-images.githubusercontent.com/39439089/49846318-e9d0fd00-fd87-11e8-8a87-cbb3cb096816.png)
 
 ![image](https://user-images.githubusercontent.com/39439089/49846347-0c631600-fd88-11e8-88bb-ceb1696a21e9.png)
+
+## Contributors
+- [Kylie Stanley](github.com/kyliestanley)
+- [Kaylee Bunce](github.com/kayleenovak)
